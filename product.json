@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+      "name": "Apple Earbuds",
+      "price": 10999,
+      "description": "High-quality apple earbuds with noise cancellation and long battery life.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmnrxFAr4706Q3U1yKArI5WDRQWYHVpoxQg&s"
+    },
+    {
+        "id":2,
+      "name": "Earrings",
+      "price": 500,
+      "description": "Beautiful earrings for gifting",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH2ql5z1QBBXDvhJhTtUHzKJnt48Wm5SFlcg&s"
+    },
+    {
+        "id":3,
+      "name": "Crop top",
+      "price": 800,
+      "description": "Stylish crop top for women",
+      "image": "https://lh5.googleusercontent.com/proxy/EtuuoTvHatxLV_RfYfrrf-1xk35_BCakINCE-VpQxpFZAtZP60ShMgZSUkK0lUBPXSdIb5ULbN56q5kFO15IUA6hx-fC2Lzn_vzqq-9OWvioeJeS_8NevbODFgy-3Tw7JOq2X2CFeUSHqcXyfqUWIoYxBJntYWaa"
+    },
+    {
+        "id":4,
+      "name": "Laptop",
+      "price": 62500,
+      "description": "Hp pavilion gaming intel core",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_30.png"
+    },
+    {
+        "id":5,
+      "name": "Jeans",
+      "price": 1599,
+      "description": "Wide leg high waist jeans for women",
+      "image": "https://lh6.googleusercontent.com/proxy/l_6NZBjmlmH-NWTbeyevsGAY9TN62w938785YdOyq-dmFiIpveuOceegEE8tgW9949RbvbVHpAya-8kZTQuwXaRYDcKHnH1t9MES2elhhRnO7iGe5c6cnb8WoinnFMZGqlvNmnWunosjZR_WBXpOd-kUxq9TQufq"
+    },
+    {
+        "id":6,
+      "name": "White shirt",
+      "price": 999,
+      "description": "Allen Solly white shirt for men",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIv7tu-6BMgNBmX0OwUTEWi8J8ySHZoplufw&s"
+    },
+    {
+        "id":7,
+      "name": "Shoes",
+      "price": 3999,
+      "description": "Puma white sneakers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-L7mHioP6Z6YAe48s8T8i0ZSy8c8A7p5Xrw&s"
+    },
+    {
+        "id":8,
+      "name": "Artificial nails",
+      "price": 499,
+      "description": "Glitter mixed Artificial nails for women",
+      "image": "https://lh5.googleusercontent.com/proxy/-iMdgbcGbjee0F1lzIY_V4MHAiuCh-exZm3YUYKgzWMTPySrGCYHXjkREAuKsw2suLGz10H01gUDe5y5yh8sAgvuYtxEXqnN0PokCWRuRSoosndDeQh51ZBXMONyjBoLnXU89lapDhGAium99t8y_GMM"
+    },
+    {
+        "id":9,
+      "name": "Showpiece",
+      "price": 529,
+      "description": "Home decor buddha idol showpiece for decoration",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhLcc3NvT6aX_BjcCefFnnV5by9MMerTR3Q&s"
+    },
+    {
+        "id":10,
+      "name": "Ring",
+      "price": 1499,
+      "description": "Silver plated stone studded silver ring for women,",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZW1nrD04lGgOQPY3P280DxxxUvLuKSrPoA&s"
+    },
+    {
+        "id":11,
+      "name": "Keychain",
+      "price": 350,
+      "description": "Cute kitty keychain",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBoPyZEjyP-rauG85_-R2U9hzl3QDaiu6mcw&s"
+    },
+    {
+        "id":12,
+      "name": "Bag",
+      "price": 1199,
+      "description": "Madona women's bowling handbag",
+      "image": "https://zimbapro.in/uploads/1705302363.png"
+    }
+  ]
